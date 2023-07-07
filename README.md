@@ -1,5 +1,6 @@
+### ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 - 🎓 Estudante universitária
 - 🌱 Atualmente estou me aprofundando em Python
 
