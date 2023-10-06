@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 - 🎓 Estudante universitária
-- 🌱 Atualmente estou me aprofundando em Python
 
 <br>
 
