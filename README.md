@@ -1,5 +1,5 @@
 ### ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-<h3>Hi there 👋</h3> 
+<h1>Hi there 👋</h1> 
 
 - 🎓 Estudante universitária
 
