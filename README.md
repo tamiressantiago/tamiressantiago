@@ -1,13 +1,12 @@
 ### ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-<h1>Hi there 👋</h1> 
+<h3>👋 Hi there</h3>
 
-- 🎓 Estudante universitária
+🎓 Estudante universitária
 
 <div>
-    <img align="right" height="177rem" style="margin-left: 25px" src="https://media.tenor.com/yY98PSJ_PlYAAAAi/coffee-cup-of-coffee.gif"/>
-</div>
+   <img align="right" height="150rem" style="margin-right: 20px" src="https://media.tenor.com/yY98PSJ_PlYAAAAi/coffee-cup-of-coffee.gif"/>
 
-<h3>📖Languages and Tools:</h3>
+</div>
 
 <p>
     <a href="https://skillicons.dev">
@@ -16,9 +15,5 @@
 </p>
 
 <br>
-
-<p>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiressantiago&layout=compact&langs_count=16&theme=gruvbox"/>
-</p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
