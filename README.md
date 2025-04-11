@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+### ![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
 # Tamires Santiago
 
 Graduanda em Ciência da Computação pela UFCG.
@@ -19,4 +19,4 @@ Graduanda em Ciência da Computação pela UFCG.
 [![Lattes](https://img.shields.io/badge/-Lattes-007ACC?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/3950492911623435)
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
