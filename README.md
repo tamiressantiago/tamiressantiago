@@ -1,5 +1,6 @@
 ### ![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
 # Tamires Santiago
+![Gif](assets/image.gif)
 
 Graduanda em Ciência da Computação pela UFCG.
 
