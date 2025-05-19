@@ -1,7 +1,7 @@
-### ![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
+### ![header](https://capsule-render.vercel.app/api?type=rect&color=5ec2ce&height=1)
 <h1 align="center">Tamires Santiago</h1>
 
-<img align="right" alt="Coding" width="290" src="assets/image.gif">
+<img align="right" alt="Coding" width="270" src="assets/image.gif">
 <br>
 <div align="center" style="margin:40px auto; padding:30px">
 ✮ Computer Science Undergraduate @ UFCG
@@ -36,4 +36,4 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=5ec2ce&height=1)
