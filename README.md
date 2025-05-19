@@ -1,10 +1,21 @@
 ### ![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
-# Tamires Santiago
-![Gif](assets/image.gif)
+<h1 align="center">Tamires Santiago</h1>
 
-Graduanda em Ciência da Computação pela UFCG.
+<img align="right" alt="Coding" width="290" src="assets/image.gif">
+<br>
+<div align="center" style="margin:40px auto; padding:30px">
+✮ Computer Science Undergraduate @ UFCG
+  
+✮ Interested in Data Science
 
-### Conhecimentos:
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiressantiago&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117" width="350" />
+
+</div>
+
+<br>
+<br>
+<h3>Languages & Tools:</h3>
 
 [![C](https://img.shields.io/badge/-C-002B50?style=for-the-badge&logo=c&logoColor=white&label=)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
@@ -14,7 +25,7 @@ Graduanda em Ciência da Computação pela UFCG.
 [![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-### Contato
+<h3>Contact & Academic Info</h3>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamireszsantiago@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamiressantiago/)
