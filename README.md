@@ -15,6 +15,9 @@
 
 <br>
 <br>
+
+<div align="center">
+  
 <h3>Languages & Tools:</h3>
 
 [![C](https://img.shields.io/badge/-C-002B50?style=for-the-badge&logo=c&logoColor=white&label=)](#)
@@ -30,5 +33,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamireszsantiago@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamiressantiago/)
 [![Lattes](https://img.shields.io/badge/Lattes-007ACC?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/3950492911623435)
+
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=800000&height=1)
