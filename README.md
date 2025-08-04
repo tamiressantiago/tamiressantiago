@@ -6,12 +6,7 @@
 <div align="center" style="margin:40px auto; padding:30px">
 ✮ Computer Science Undergraduate @ UFCG
   
-✮ Interested in Data Science
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiressantiago&layout=compact&hide_border=true&title_color=d4d3d7&text_color=efe1e4&bg_color=0d1117" width="350" />
-
-</div>
 
 <br>
 <br>
