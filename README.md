@@ -20,13 +20,13 @@
   
 <h3>Languages & Tools:</h3>
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 [![C](https://img.shields.io/badge/-C-002B50?style=for-the-badge&logo=c&logoColor=white&label=)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-C2A300?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Clojure](https://img.shields.io/badge/Clojure-7CB518?style=for-the-badge&logo=clojure&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+
 
 <h3>Contact & Academic Info</h3>
 
