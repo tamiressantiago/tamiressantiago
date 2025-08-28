@@ -19,7 +19,6 @@
 [![C](https://img.shields.io/badge/-C-002B50?style=for-the-badge&logo=c&logoColor=white&label=)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-C2A300?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Clojure](https://img.shields.io/badge/Clojure-7CB518?style=for-the-badge&logo=clojure&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
